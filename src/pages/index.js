@@ -39,16 +39,6 @@ function IndexPage(props) {
         subtitle=""
         embedUrl="https://www.youtube.com/embed/UKbrwPL3wXE"
       />
-      <FeaturesSection
-        items_array={2}
-        bg="white"
-        textColor="black"
-        size="md"
-        bgImage=""
-        bgImageOpacity={1}
-        title="The Chemistry of CRISPR"
-        subtitle="Classic CRISPR is best at breaking things but not great at repairing. Recall that after the Cas9 enzyme cuts, scientists typically rely on the body's natural DNA repair processes and hope for the best. For CRISPR to reach its full potential, there must be a way to reliably insert and edit DNA instead of playing a probability game with repair processes. Recently, scientists have developed prime editing to solve precisely this issue."
-      />
        <FeaturesSection
         items_array={2}
         bg="black"
